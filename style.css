@@ -1,0 +1,95 @@
+	
+.general{
+    background-color: green;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    
+}
+
+.caja1{
+    background-image: url("images/Fondobosquetropical.jpg");
+    color: white;
+    height: 65px;
+    overflow: auto;
+    line-height: 4px;
+    
+    
+    
+}
+
+.subtitulo{
+    font-weight: bold;
+    font-size: 15;
+}
+.cesta{
+    background-color: beige;
+    font-size: 29;
+}
+.oculto{
+    display:none;
+}
+.general2{
+    width: 800px;
+    margin:0 auto;
+    padding:0px;
+    
+    
+
+}
+.caja2{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    
+}
+
+
+.parrafo{
+    margin: 20px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.parrafo:hover{
+    color: white;
+}
+
+.subcaja{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    float: left;
+    justify-content: center;
+}
+    
+
+.rana{
+    background-color: white;
+    width: 250px;
+      height: 325px;
+      margin: 5px;
+      float: left;
+}
+
+.imagen{
+    width: 180px;
+      height: 180px;
+    margin: 10px;
+}
+
+footer{
+    margin:0px;
+    padding:0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.footer1{
+    margin: 20px;
+    color: white;
+
+}
